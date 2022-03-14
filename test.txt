@@ -4,6 +4,7 @@ git stash
 git fetch 
 get pull
 ls-files
+git ls-files --stage
 git log
 git diff
 balabalabala
