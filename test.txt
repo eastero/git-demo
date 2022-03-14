@@ -7,3 +7,4 @@ git fetch
 get pull
 
 git log
+git diff
