@@ -3,7 +3,9 @@ git demo test
 git stash
 git fetch 
 get pull
+ls-files
 git log
 git diff
 balabalabala
 2022-03-14
+1234567890
