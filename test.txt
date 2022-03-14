@@ -4,9 +4,10 @@ git stash
 git fetch 
 get pull
 ls-files
-git ls-files --stage
+git ls-files -s
 git log
 git diff
 balabalabala
 2022-03-14
 1234567890
+0987654321
