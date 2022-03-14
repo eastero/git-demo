@@ -5,3 +5,5 @@ git stash
 
 git fetch 
 get pull
+
+git log
